@@ -1,0 +1,68 @@
+INFO:root:Connecting Mysql Database
+INFO:root:Creating Table for Attribute Dataset
+INFO:root:Inserting Data into Table attribute_data
+INFO:root:Creating Table for Dress Sales
+INFO:root:Inserting Data into Table dress_sales
+INFO:root:Connecting Mysql Database
+INFO:root:Creating Table for Attribute Dataset
+INFO:root:Inserting Data into Table attribute_data
+INFO:root:Creating Table for Dress Sales
+INFO:root:Inserting Data into Table dress_sales
+INFO:root:Connecting Mysql Database
+INFO:root:Creating Table for Attribute Dataset
+INFO:root:Creating Table for Dress Sales
+INFO:root:Inserting Data into Table attribute_data
+INFO:root:Inserting Data into Table dress_sales
+INFO:root:Connecting Mysql Database
+INFO:root:Performing task 1 and 2 creating tables and bulk load
+INFO:root:Creating Table for Attribute Dataset
+INFO:root:Creating Table for Dress Sales
+INFO:root:Inserting Data into Table attribute_data
+INFO:root:Inserting Data into Table dress_sales
+INFO:root:Performing Task 3 loading table in Pandas DataFrame
+INFO:root:Performing Task 3 loading table in Pandas DataFrame
+INFO:root:Performing Task 4 convert to json
+INFO:root:Performing Task 6 ...Left Join
+INFO:root:Performing Task 3 loading table in Pandas DataFrame
+INFO:root:Performing Task 4 convert to json
+INFO:root:Performing Task 6 ...Left Join
+INFO:root:Performing Task 3 loading table in Pandas DataFrame
+INFO:root:Performing Task 4 convert to json
+INFO:root:Performing Task 6 ...Left Join
+INFO:root:Performing Task 3 loading table in Pandas DataFrame
+INFO:root:Performing Task 4 convert to json
+INFO:root:Performing Task 6 ...Left Join
+INFO:root:Performing Task 8...No of Dresses having rec = 0
+INFO:root:Performing Task 3 loading table in Pandas DataFrame
+INFO:root:Performing Task 4 convert to json
+INFO:root:Performing Task 6 ...Left Join
+INFO:root:Performing Task 8...No of Dresses having rec = 0
+INFO:root:Performing Task 3 loading table in Pandas DataFrame
+INFO:root:Performing Task 4 convert to json
+INFO:root:Performing Task 6 ...Left Join
+INFO:root:Performing Task 8...No of Dresses having rec = 0
+INFO:root:Performing Task 3 loading table in Pandas DataFrame
+INFO:root:Performing Task 4 convert to json
+INFO:root:Performing Task 6 ...Left Join
+INFO:root:Performing Task 8...No of Dresses having rec = 0
+INFO:root:Performing Task 3 loading table in Pandas DataFrame
+INFO:root:Performing Task 4 convert to json
+INFO:root:Performing Task 6 ...Left Join
+INFO:root:Performing Task 8...No of Dresses having rec = 0
+INFO:root:Performing Task 3 loading table in Pandas DataFrame
+INFO:root:Performing Task 3 loading table in Pandas DataFrame
+INFO:root:Performing Task 4 convert to json
+INFO:root:Performing Task 6 ...Left Join
+INFO:root:Performing Task 8...NO of dresses having rec = 0
+INFO:root:Connecting Mysql Database
+INFO:root:Performing task 1 and 2 creating tables and bulk load
+INFO:root:Creating Table for Attribute Dataset
+INFO:root:Creating Table for Dress Sales
+INFO:root:Inserting Data into Table attribute_data
+INFO:root:Inserting Data into Table dress_sales
+INFO:root:Connecting Mysql Database
+INFO:root:Performing task 1 and 2 creating tables and bulk load
+INFO:root:Creating Table for Attribute Dataset
+INFO:root:Creating Table for Dress Sales
+INFO:root:Inserting Data into Table attribute_data
+INFO:root:Inserting Data into Table dress_sales
