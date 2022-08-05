@@ -1,0 +1,450 @@
+INFO : root : 2022-08-03 11:11:01,600 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 11:12:59,370 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 11:12:59,387 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 11:13:23,502 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 11:13:23,519 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 11:14:12,036 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 11:14:12,061 : Converting all datetime To DateTime Stamp
+ERROR : root : 2022-08-03 11:14:12,063 : 'ActvityDate'
+INFO : root : 2022-08-03 11:14:23,284 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 11:14:23,299 : Converting all datetime To DateTime Stamp
+ERROR : root : 2022-08-03 11:14:23,300 : 'ActvityDate'
+INFO : root : 2022-08-03 11:15:19,147 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 11:15:19,157 : Converting all datetime To DateTime Stamp
+ERROR : root : 2022-08-03 11:15:19,162 : 'ActvityDate'
+INFO : root : 2022-08-03 11:15:44,688 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 11:15:44,715 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 11:16:38,992 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 11:16:39,006 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 11:16:39,028 : None
+INFO : root : 2022-08-03 11:17:05,842 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 11:17:05,856 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 11:17:05,866 :              Id ActivityDate  ...  SedentaryMinutes  Calories
+0    1503960366   2016-03-25  ...               804      1819
+1    1503960366   2016-03-26  ...               588      2154
+2    1503960366   2016-03-27  ...               605      1944
+3    1503960366   2016-03-28  ...              1080      1932
+4    1503960366   2016-03-29  ...               763      1886
+..          ...          ...  ...               ...       ...
+452  8877689391   2016-04-08  ...               982      4196
+453  8877689391   2016-04-09  ...              1052      3841
+454  8877689391   2016-04-10  ...              1055      4526
+455  8877689391   2016-04-11  ...              1190      2820
+456  8877689391   2016-04-12  ...               531       938
+
+[457 rows x 15 columns]
+INFO : root : 2022-08-03 11:17:54,945 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 11:17:54,958 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 11:19:56,297 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 11:19:56,307 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 11:19:56,316 : Getting No of Unique ID's
+INFO : root : 2022-08-03 11:23:43,326 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 11:23:43,341 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 11:23:43,346 : Getting No of Unique ID's
+INFO : root : 2022-08-03 11:23:43,346 : Getting Most Active Id
+ERROR : root : 2022-08-03 11:23:43,346 : 'FairlyActiveMInutes'
+INFO : root : 2022-08-03 11:23:57,428 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 11:23:57,446 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 11:23:57,456 : Getting No of Unique ID's
+INFO : root : 2022-08-03 11:23:57,456 : Getting Most Active Id
+ERROR : root : 2022-08-03 11:23:57,456 : 'FairlyActiveMInutes'
+INFO : root : 2022-08-03 11:24:33,408 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 11:24:33,420 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 11:24:33,426 : Getting No of Unique ID's
+INFO : root : 2022-08-03 11:24:33,426 : Getting Most Active Id
+INFO : root : 2022-08-03 11:25:12,078 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 11:25:12,108 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 11:25:12,117 : Getting No of Unique ID's
+INFO : root : 2022-08-03 11:25:12,118 : Getting Most Active Id
+INFO : root : 2022-08-03 11:25:26,979 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 11:25:27,003 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 11:25:27,011 : Getting No of Unique ID's
+INFO : root : 2022-08-03 11:25:27,011 : Getting Most Active Id
+INFO : root : 2022-08-03 11:27:53,502 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 11:27:53,518 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 11:27:53,526 : Getting No of Unique ID's
+INFO : root : 2022-08-03 11:27:53,526 : Getting Most Active Id
+INFO : root : 2022-08-03 11:28:31,003 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 11:28:31,026 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 11:28:31,034 : Getting No of Unique ID's
+INFO : root : 2022-08-03 11:28:31,034 : Getting Most Active Id
+ERROR : root : 2022-08-03 11:28:31,036 : 720
+INFO : root : 2022-08-03 11:30:19,914 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 11:30:19,933 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 11:30:19,944 : Getting No of Unique ID's
+INFO : root : 2022-08-03 11:30:19,944 : Getting Most Active Id
+INFO : root : 2022-08-03 11:38:46,921 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 11:38:46,951 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 11:38:46,969 : Getting No of Unique ID's
+INFO : root : 2022-08-03 11:38:46,971 : Getting Most Active Id
+INFO : root : 2022-08-03 11:39:21,025 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 11:39:21,084 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 11:39:21,104 : Getting No of Unique ID's
+INFO : root : 2022-08-03 11:39:21,104 : Getting Most Active Id
+INFO : root : 2022-08-03 11:39:22,471 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 11:39:22,491 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 11:39:22,496 : Getting No of Unique ID's
+INFO : root : 2022-08-03 11:39:22,496 : Getting Most Active Id
+INFO : root : 2022-08-03 11:39:57,741 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 11:39:57,755 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 11:39:57,761 : Getting No of Unique ID's
+INFO : root : 2022-08-03 11:39:57,763 : Getting Most Active Id
+INFO : root : 2022-08-03 11:40:37,942 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 11:40:37,961 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 11:40:37,966 : Getting No of Unique ID's
+INFO : root : 2022-08-03 11:40:37,966 : Getting Most Active Id
+INFO : root : 2022-08-03 11:48:07,302 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 11:48:07,333 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 11:48:07,333 : Getting No of Unique ID's
+INFO : root : 2022-08-03 11:48:07,333 : Getting Most Active Id
+INFO : root : 2022-08-03 11:49:31,968 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 11:49:31,978 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 11:49:31,994 : Getting No of Unique ID's
+INFO : root : 2022-08-03 11:49:31,994 : Getting Most Active Id
+INFO : root : 2022-08-03 11:49:32,003 : No of ID's not logged
+INFO : root : 2022-08-03 11:49:58,002 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 11:49:58,036 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 11:49:58,036 : Getting No of Unique ID's
+INFO : root : 2022-08-03 11:49:58,046 : Getting Most Active Id
+INFO : root : 2022-08-03 11:49:58,051 : No of ID's not logged
+INFO : root : 2022-08-03 11:54:30,562 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 11:54:30,585 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 11:54:30,590 : Getting No of Unique ID's
+INFO : root : 2022-08-03 11:54:30,590 : Getting Most Active Id
+INFO : root : 2022-08-03 11:54:30,601 : No of ID's not logged
+INFO : root : 2022-08-03 11:54:30,602 : Laziest Person on Basis of Calories Burnt
+INFO : root : 2022-08-03 11:58:48,420 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 11:58:48,440 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 11:58:48,440 : Getting No of Unique ID's
+INFO : root : 2022-08-03 11:58:48,440 : Getting Most Active Id
+INFO : root : 2022-08-03 11:58:48,456 : No of ID's not logged
+INFO : root : 2022-08-03 11:58:48,456 : Laziest Person on Basis of Calories Burnt
+INFO : root : 2022-08-03 11:58:48,471 : No of Healthy Pesron On basis calories burnt
+INFO : root : 2022-08-03 11:59:30,739 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 11:59:30,754 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 11:59:30,770 : Getting No of Unique ID's
+INFO : root : 2022-08-03 11:59:30,770 : Getting Most Active Id
+INFO : root : 2022-08-03 11:59:30,770 : No of ID's not logged
+INFO : root : 2022-08-03 11:59:30,770 : Laziest Person on Basis of Calories Burnt
+INFO : root : 2022-08-03 11:59:30,786 : No of Healthy Pesron On basis calories burnt
+INFO : root : 2022-08-03 12:10:00,323 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 12:10:00,347 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 12:10:00,356 : Getting No of Unique ID's
+INFO : root : 2022-08-03 12:10:00,356 : Getting Most Active Id
+INFO : root : 2022-08-03 12:10:00,375 : No of ID's not logged
+INFO : root : 2022-08-03 12:10:00,377 : Laziest Person on Basis of Calories Burnt
+INFO : root : 2022-08-03 12:10:00,392 : No of Healthy Pesron On basis calories burnt
+INFO : root : 2022-08-03 12:10:00,394 : Third most active Person
+INFO : root : 2022-08-03 12:11:33,164 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 12:11:33,188 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 12:11:33,197 : Getting No of Unique ID's
+INFO : root : 2022-08-03 12:11:33,198 : Getting Most Active Id
+INFO : root : 2022-08-03 12:11:33,216 : No of ID's not logged
+INFO : root : 2022-08-03 12:11:33,216 : Laziest Person on Basis of Calories Burnt
+INFO : root : 2022-08-03 12:11:33,233 : No of Healthy Pesron On basis calories burnt
+INFO : root : 2022-08-03 12:11:33,233 : Third most active Person
+INFO : root : 2022-08-03 12:12:30,960 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 12:12:30,976 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 12:12:30,992 : Getting No of Unique ID's
+INFO : root : 2022-08-03 12:12:30,992 : Getting Most Active Id
+INFO : root : 2022-08-03 12:12:31,007 : No of ID's not logged
+INFO : root : 2022-08-03 12:12:31,007 : Laziest Person on Basis of Calories Burnt
+INFO : root : 2022-08-03 12:12:31,007 : No of Healthy Pesron On basis calories burnt
+INFO : root : 2022-08-03 12:12:31,007 : Third most active Person
+INFO : root : 2022-08-03 12:14:39,383 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 12:14:39,398 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 12:14:39,414 : Getting No of Unique ID's
+INFO : root : 2022-08-03 12:14:39,414 : Getting Most Active Id
+ERROR : root : 2022-08-03 12:14:39,414 : 'DataFrameGroupBy' object has no attribute 'sort_values'
+INFO : root : 2022-08-03 12:14:39,414 : No of ID's not logged
+INFO : root : 2022-08-03 12:14:39,414 : Laziest Person on Basis of Calories Burnt
+INFO : root : 2022-08-03 12:14:39,414 : No of Healthy Pesron On basis calories burnt
+INFO : root : 2022-08-03 12:14:39,414 : Third most active Person
+INFO : root : 2022-08-03 12:16:00,279 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 12:16:00,294 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 12:16:00,298 : Getting No of Unique ID's
+INFO : root : 2022-08-03 12:16:00,298 : Getting Most Active Id
+INFO : root : 2022-08-03 12:16:00,298 : No of ID's not logged
+INFO : root : 2022-08-03 12:16:00,298 : Laziest Person on Basis of Calories Burnt
+INFO : root : 2022-08-03 12:16:00,314 : No of Healthy Pesron On basis calories burnt
+INFO : root : 2022-08-03 12:16:00,314 : Third most active Person
+INFO : root : 2022-08-03 12:17:50,661 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 12:17:50,678 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 12:17:50,698 : Getting No of Unique ID's
+INFO : root : 2022-08-03 12:17:50,698 : Getting Most Active Id
+INFO : root : 2022-08-03 12:17:50,719 : No of ID's not logged
+INFO : root : 2022-08-03 12:17:50,720 : Laziest Person on Basis of Calories Burnt
+INFO : root : 2022-08-03 12:17:50,720 : No of Healthy Pesron On basis calories burnt
+INFO : root : 2022-08-03 12:17:50,720 : Third most active Person
+INFO : root : 2022-08-03 12:18:51,892 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 12:18:51,918 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 12:18:51,925 : Getting No of Unique ID's
+INFO : root : 2022-08-03 12:18:51,926 : Getting Most Active Id
+INFO : root : 2022-08-03 12:18:51,945 : No of ID's not logged
+INFO : root : 2022-08-03 12:18:51,946 : Laziest Person on Basis of Calories Burnt
+INFO : root : 2022-08-03 12:18:51,962 : No of Healthy Pesron On basis calories burnt
+INFO : root : 2022-08-03 12:18:51,963 : Third most active Person
+INFO : root : 2022-08-03 12:19:36,199 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 12:19:36,215 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 12:19:36,215 : Getting No of Unique ID's
+INFO : root : 2022-08-03 12:19:36,215 : Getting Most Active Id
+INFO : root : 2022-08-03 12:19:36,231 : No of ID's not logged
+INFO : root : 2022-08-03 12:19:36,231 : Laziest Person on Basis of Calories Burnt
+INFO : root : 2022-08-03 12:19:36,246 : No of Healthy Pesron On basis calories burnt
+INFO : root : 2022-08-03 12:19:36,246 : Third most active Person
+INFO : root : 2022-08-03 12:20:17,879 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 12:20:17,900 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 12:20:17,908 : Getting No of Unique ID's
+INFO : root : 2022-08-03 12:20:17,908 : Getting Most Active Id
+INFO : root : 2022-08-03 12:20:17,924 : No of ID's not logged
+INFO : root : 2022-08-03 12:20:17,926 : Laziest Person on Basis of Calories Burnt
+INFO : root : 2022-08-03 12:20:17,942 : No of Healthy Pesron On basis calories burnt
+INFO : root : 2022-08-03 12:20:17,942 : Third most active Person
+INFO : root : 2022-08-03 12:20:33,989 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 12:20:34,007 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 12:20:34,007 : Getting No of Unique ID's
+INFO : root : 2022-08-03 12:20:34,007 : Getting Most Active Id
+INFO : root : 2022-08-03 12:20:34,007 : No of ID's not logged
+INFO : root : 2022-08-03 12:20:34,007 : Laziest Person on Basis of Calories Burnt
+INFO : root : 2022-08-03 12:20:34,025 : No of Healthy Pesron On basis calories burnt
+INFO : root : 2022-08-03 12:20:34,025 : Third most active Person
+INFO : root : 2022-08-03 12:20:51,955 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 12:20:51,991 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 12:20:52,003 : Getting No of Unique ID's
+INFO : root : 2022-08-03 12:20:52,004 : Getting Most Active Id
+INFO : root : 2022-08-03 12:20:52,029 : No of ID's not logged
+INFO : root : 2022-08-03 12:20:52,030 : Laziest Person on Basis of Calories Burnt
+INFO : root : 2022-08-03 12:20:52,048 : No of Healthy Pesron On basis calories burnt
+INFO : root : 2022-08-03 12:20:52,049 : Third most active Person
+INFO : root : 2022-08-03 12:21:16,818 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 12:21:16,835 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 12:21:16,835 : Getting No of Unique ID's
+INFO : root : 2022-08-03 12:21:16,835 : Getting Most Active Id
+INFO : root : 2022-08-03 12:21:16,850 : No of ID's not logged
+INFO : root : 2022-08-03 12:21:16,850 : Laziest Person on Basis of Calories Burnt
+INFO : root : 2022-08-03 12:21:16,850 : No of Healthy Pesron On basis calories burnt
+INFO : root : 2022-08-03 12:21:16,850 : Third most active Person
+INFO : root : 2022-08-03 12:22:33,960 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 12:22:33,976 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 12:22:33,976 : Getting No of Unique ID's
+INFO : root : 2022-08-03 12:22:33,976 : Getting Most Active Id
+INFO : root : 2022-08-03 12:22:33,991 : No of ID's not logged
+INFO : root : 2022-08-03 12:22:33,991 : Laziest Person on Basis of Calories Burnt
+INFO : root : 2022-08-03 12:22:34,012 : No of Healthy Pesron On basis calories burnt
+INFO : root : 2022-08-03 12:22:34,012 : Third most active Person
+INFO : root : 2022-08-03 12:24:30,327 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 12:24:30,343 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 12:24:30,343 : Getting No of Unique ID's
+INFO : root : 2022-08-03 12:24:30,343 : Getting Most Active Id
+INFO : root : 2022-08-03 12:24:30,358 : No of ID's not logged
+INFO : root : 2022-08-03 12:24:30,358 : Laziest Person on Basis of Calories Burnt
+INFO : root : 2022-08-03 12:24:30,358 : No of Healthy Pesron On basis calories burnt
+INFO : root : 2022-08-03 12:24:30,358 : Third most active Person
+INFO : root : 2022-08-03 12:24:30,381 : Fifth Most Laziest Person
+INFO : root : 2022-08-03 12:26:03,040 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 12:26:03,058 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 12:26:03,058 : Getting No of Unique ID's
+INFO : root : 2022-08-03 12:26:03,058 : Getting Most Active Id
+INFO : root : 2022-08-03 12:26:03,074 : No of ID's not logged
+INFO : root : 2022-08-03 12:26:03,074 : Laziest Person on Basis of Calories Burnt
+INFO : root : 2022-08-03 12:26:03,090 : No of Healthy Pesron On basis calories burnt
+INFO : root : 2022-08-03 12:26:03,090 : Third most active Person
+INFO : root : 2022-08-03 12:26:03,090 : Fifth Most Laziest Person
+INFO : root : 2022-08-03 12:26:03,105 : Total Accumulative Calories Burnt 
+ERROR : root : 2022-08-03 12:26:03,105 : ('Id', 'Calories')
+INFO : root : 2022-08-03 12:26:22,653 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 12:26:22,653 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 12:26:22,669 : Getting No of Unique ID's
+INFO : root : 2022-08-03 12:26:22,669 : Getting Most Active Id
+INFO : root : 2022-08-03 12:26:22,669 : No of ID's not logged
+INFO : root : 2022-08-03 12:26:22,669 : Laziest Person on Basis of Calories Burnt
+INFO : root : 2022-08-03 12:26:22,685 : No of Healthy Pesron On basis calories burnt
+INFO : root : 2022-08-03 12:26:22,685 : Third most active Person
+INFO : root : 2022-08-03 12:26:22,685 : Fifth Most Laziest Person
+INFO : root : 2022-08-03 12:26:22,701 : Total Accumulative Calories Burnt 
+ERROR : root : 2022-08-03 12:26:22,701 : ('Id', 'Calories')
+INFO : root : 2022-08-03 12:26:39,035 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 12:26:39,050 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 12:26:39,069 : Getting No of Unique ID's
+INFO : root : 2022-08-03 12:26:39,069 : Getting Most Active Id
+INFO : root : 2022-08-03 12:26:39,086 : No of ID's not logged
+INFO : root : 2022-08-03 12:26:39,086 : Laziest Person on Basis of Calories Burnt
+INFO : root : 2022-08-03 12:26:39,098 : No of Healthy Pesron On basis calories burnt
+INFO : root : 2022-08-03 12:26:39,098 : Third most active Person
+INFO : root : 2022-08-03 12:26:39,117 : Fifth Most Laziest Person
+INFO : root : 2022-08-03 12:26:39,131 : Total Accumulative Calories Burnt 
+ERROR : root : 2022-08-03 12:26:39,131 : "['Id'] not in index"
+INFO : root : 2022-08-03 12:27:34,142 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 12:27:34,167 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 12:27:34,167 : Getting No of Unique ID's
+INFO : root : 2022-08-03 12:27:34,167 : Getting Most Active Id
+INFO : root : 2022-08-03 12:27:34,186 : No of ID's not logged
+INFO : root : 2022-08-03 12:27:34,186 : Laziest Person on Basis of Calories Burnt
+INFO : root : 2022-08-03 12:27:34,203 : No of Healthy Pesron On basis calories burnt
+INFO : root : 2022-08-03 12:27:34,203 : Third most active Person
+INFO : root : 2022-08-03 12:27:34,203 : Fifth Most Laziest Person
+INFO : root : 2022-08-03 12:27:34,217 : Total Accumulative Calories Burnt 
+ERROR : root : 2022-08-03 12:27:34,217 : "['Id'] not in index"
+INFO : root : 2022-08-03 12:28:15,885 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 12:28:15,901 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 12:28:15,916 : Getting No of Unique ID's
+INFO : root : 2022-08-03 12:28:15,916 : Getting Most Active Id
+INFO : root : 2022-08-03 12:28:15,932 : No of ID's not logged
+INFO : root : 2022-08-03 12:28:15,932 : Laziest Person on Basis of Calories Burnt
+INFO : root : 2022-08-03 12:28:15,932 : No of Healthy Pesron On basis calories burnt
+INFO : root : 2022-08-03 12:28:15,932 : Third most active Person
+INFO : root : 2022-08-03 12:28:15,945 : Fifth Most Laziest Person
+INFO : root : 2022-08-03 12:28:15,962 : Total Accumulative Calories Burnt 
+INFO : root : 2022-08-03 12:28:34,555 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 12:28:34,574 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 12:28:34,574 : Getting No of Unique ID's
+INFO : root : 2022-08-03 12:28:34,574 : Getting Most Active Id
+INFO : root : 2022-08-03 12:28:34,595 : No of ID's not logged
+INFO : root : 2022-08-03 12:28:34,595 : Laziest Person on Basis of Calories Burnt
+INFO : root : 2022-08-03 12:28:34,595 : No of Healthy Pesron On basis calories burnt
+INFO : root : 2022-08-03 12:28:34,595 : Third most active Person
+INFO : root : 2022-08-03 12:28:34,614 : Fifth Most Laziest Person
+INFO : root : 2022-08-03 12:28:34,614 : Total Accumulative Calories Burnt 
+ERROR : root : 2022-08-03 12:28:34,614 : 'Id'
+INFO : root : 2022-08-03 12:29:17,162 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 12:29:17,177 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 12:29:17,195 : Getting No of Unique ID's
+INFO : root : 2022-08-03 12:29:17,195 : Getting Most Active Id
+INFO : root : 2022-08-03 12:29:17,196 : No of ID's not logged
+INFO : root : 2022-08-03 12:29:17,196 : Laziest Person on Basis of Calories Burnt
+INFO : root : 2022-08-03 12:29:17,212 : No of Healthy Pesron On basis calories burnt
+INFO : root : 2022-08-03 12:29:17,212 : Third most active Person
+INFO : root : 2022-08-03 12:29:17,228 : Fifth Most Laziest Person
+INFO : root : 2022-08-03 12:29:17,228 : Total Accumulative Calories Burnt 
+INFO : root : 2022-08-03 12:29:33,689 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 12:29:33,713 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 12:29:33,713 : Getting No of Unique ID's
+INFO : root : 2022-08-03 12:29:33,713 : Getting Most Active Id
+INFO : root : 2022-08-03 12:29:33,732 : No of ID's not logged
+INFO : root : 2022-08-03 12:29:33,732 : Laziest Person on Basis of Calories Burnt
+INFO : root : 2022-08-03 12:29:33,732 : No of Healthy Pesron On basis calories burnt
+INFO : root : 2022-08-03 12:29:33,732 : Third most active Person
+INFO : root : 2022-08-03 12:29:33,752 : Fifth Most Laziest Person
+INFO : root : 2022-08-03 12:29:33,752 : Total Accumulative Calories Burnt 
+ERROR : root : 2022-08-03 12:29:33,752 : ('Id', 'Calories')
+INFO : root : 2022-08-03 12:29:50,975 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 12:29:50,997 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 12:29:51,003 : Getting No of Unique ID's
+INFO : root : 2022-08-03 12:29:51,003 : Getting Most Active Id
+INFO : root : 2022-08-03 12:29:51,022 : No of ID's not logged
+INFO : root : 2022-08-03 12:29:51,023 : Laziest Person on Basis of Calories Burnt
+INFO : root : 2022-08-03 12:29:51,039 : No of Healthy Pesron On basis calories burnt
+INFO : root : 2022-08-03 12:29:51,040 : Third most active Person
+INFO : root : 2022-08-03 12:29:51,056 : Fifth Most Laziest Person
+INFO : root : 2022-08-03 12:29:51,072 : Total Accumulative Calories Burnt 
+INFO : root : 2022-08-03 12:31:22,934 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 12:31:22,963 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 12:31:22,973 : Getting No of Unique ID's
+INFO : root : 2022-08-03 12:31:22,973 : Getting Most Active Id
+INFO : root : 2022-08-03 12:31:22,990 : No of ID's not logged
+INFO : root : 2022-08-03 12:31:22,991 : Laziest Person on Basis of Calories Burnt
+INFO : root : 2022-08-03 12:31:23,005 : No of Healthy Pesron On basis calories burnt
+INFO : root : 2022-08-03 12:31:23,006 : Third most active Person
+INFO : root : 2022-08-03 12:31:23,020 : Fifth Most Laziest Person
+INFO : root : 2022-08-03 12:31:23,035 : Total Accumulative Calories Burnt 
+INFO : root : 2022-08-03 12:31:51,009 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 12:31:51,033 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 12:31:51,038 : Getting No of Unique ID's
+INFO : root : 2022-08-03 12:31:51,038 : Getting Most Active Id
+INFO : root : 2022-08-03 12:31:51,056 : No of ID's not logged
+INFO : root : 2022-08-03 12:31:51,056 : Laziest Person on Basis of Calories Burnt
+INFO : root : 2022-08-03 12:31:51,072 : No of Healthy Pesron On basis calories burnt
+INFO : root : 2022-08-03 12:31:51,074 : Third most active Person
+INFO : root : 2022-08-03 12:31:51,085 : Fifth Most Laziest Person
+INFO : root : 2022-08-03 12:31:51,098 : Total Accumulative Calories Burnt 
+INFO : root : 2022-08-03 12:37:10,189 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 12:37:10,218 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 12:37:10,225 : Getting No of Unique ID's
+INFO : root : 2022-08-03 12:37:10,225 : Getting Most Active Id
+INFO : root : 2022-08-03 12:37:10,249 : No of ID's not logged
+INFO : root : 2022-08-03 12:37:10,250 : Laziest Person on Basis of Calories Burnt
+INFO : root : 2022-08-03 12:37:10,268 : No of Healthy Pesron On basis calories burnt
+INFO : root : 2022-08-03 12:37:10,269 : Irregular Persons
+ERROR : root : 2022-08-03 12:37:10,269 : 'TolatActiveMinutes'
+INFO : root : 2022-08-03 12:37:10,269 : Third most active Person
+INFO : root : 2022-08-03 12:37:10,282 : Fifth Most Laziest Person
+INFO : root : 2022-08-03 12:37:10,299 : Total Accumulative Calories Burnt 
+INFO : root : 2022-08-03 12:37:34,741 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 12:37:34,764 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 12:37:34,779 : Getting No of Unique ID's
+INFO : root : 2022-08-03 12:37:34,779 : Getting Most Active Id
+INFO : root : 2022-08-03 12:37:34,782 : No of ID's not logged
+INFO : root : 2022-08-03 12:37:34,782 : Laziest Person on Basis of Calories Burnt
+INFO : root : 2022-08-03 12:37:34,801 : No of Healthy Pesron On basis calories burnt
+INFO : root : 2022-08-03 12:37:34,801 : Irregular Persons
+INFO : root : 2022-08-03 12:37:34,801 : Third most active Person
+INFO : root : 2022-08-03 12:37:34,801 : Fifth Most Laziest Person
+INFO : root : 2022-08-03 12:37:34,817 : Total Accumulative Calories Burnt 
+INFO : root : 2022-08-03 12:39:05,700 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 12:39:05,716 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 12:39:05,716 : Getting No of Unique ID's
+INFO : root : 2022-08-03 12:39:05,716 : Getting Most Active Id
+INFO : root : 2022-08-03 12:39:05,716 : No of ID's not logged
+INFO : root : 2022-08-03 12:39:05,731 : Laziest Person on Basis of Calories Burnt
+INFO : root : 2022-08-03 12:39:05,731 : No of Healthy Pesron On basis calories burnt
+INFO : root : 2022-08-03 12:39:05,731 : Irregular Persons
+ERROR : root : 2022-08-03 12:39:05,731 : 'Columns not found: False, True'
+INFO : root : 2022-08-03 12:39:05,731 : Third most active Person
+INFO : root : 2022-08-03 12:39:05,747 : Fifth Most Laziest Person
+INFO : root : 2022-08-03 12:39:05,747 : Total Accumulative Calories Burnt 
+INFO : root : 2022-08-03 12:40:28,498 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 12:40:28,522 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 12:40:28,522 : Getting No of Unique ID's
+INFO : root : 2022-08-03 12:40:28,522 : Getting Most Active Id
+INFO : root : 2022-08-03 12:40:28,538 : No of ID's not logged
+INFO : root : 2022-08-03 12:40:28,538 : Laziest Person on Basis of Calories Burnt
+INFO : root : 2022-08-03 12:40:28,554 : No of Healthy Pesron On basis calories burnt
+INFO : root : 2022-08-03 12:40:28,554 : Irregular Persons
+INFO : root : 2022-08-03 12:40:28,554 : Third most active Person
+INFO : root : 2022-08-03 12:40:28,570 : Fifth Most Laziest Person
+INFO : root : 2022-08-03 12:40:28,570 : Total Accumulative Calories Burnt 
+INFO : root : 2022-08-03 12:43:44,586 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 12:43:44,601 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 12:43:44,617 : Getting No of Unique ID's
+INFO : root : 2022-08-03 12:43:44,617 : Getting Most Active Id
+INFO : root : 2022-08-03 12:43:44,617 : No of ID's not logged
+INFO : root : 2022-08-03 12:43:44,617 : Laziest Person on Basis of Calories Burnt
+INFO : root : 2022-08-03 12:43:44,633 : No of Healthy Pesron On basis calories burnt
+INFO : root : 2022-08-03 12:43:44,633 : Irregular Persons
+ERROR : root : 2022-08-03 12:43:44,633 : Boolean array expected for the condition, not int64
+INFO : root : 2022-08-03 12:43:44,633 : Third most active Person
+INFO : root : 2022-08-03 12:43:44,633 : Fifth Most Laziest Person
+INFO : root : 2022-08-03 12:43:44,648 : Total Accumulative Calories Burnt 
+INFO : root : 2022-08-03 12:44:46,290 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 12:44:46,308 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 12:44:46,308 : Getting No of Unique ID's
+INFO : root : 2022-08-03 12:44:46,308 : Getting Most Active Id
+INFO : root : 2022-08-03 12:44:46,323 : No of ID's not logged
+INFO : root : 2022-08-03 12:44:46,323 : Laziest Person on Basis of Calories Burnt
+INFO : root : 2022-08-03 12:44:46,323 : No of Healthy Pesron On basis calories burnt
+INFO : root : 2022-08-03 12:44:46,323 : Irregular Persons
+INFO : root : 2022-08-03 12:44:46,323 : Third most active Person
+INFO : root : 2022-08-03 12:44:46,340 : Fifth Most Laziest Person
+INFO : root : 2022-08-03 12:44:46,340 : Total Accumulative Calories Burnt 
+INFO : root : 2022-08-03 12:45:01,638 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 12:45:01,659 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 12:45:01,659 : Getting No of Unique ID's
+INFO : root : 2022-08-03 12:45:01,659 : Getting Most Active Id
+INFO : root : 2022-08-03 12:45:01,678 : No of ID's not logged
+INFO : root : 2022-08-03 12:45:01,678 : Laziest Person on Basis of Calories Burnt
+INFO : root : 2022-08-03 12:45:01,694 : No of Healthy Pesron On basis calories burnt
+INFO : root : 2022-08-03 12:45:01,694 : Irregular Persons
+INFO : root : 2022-08-03 12:45:01,694 : Third most active Person
+INFO : root : 2022-08-03 12:45:01,694 : Fifth Most Laziest Person
+INFO : root : 2022-08-03 12:45:01,709 : Total Accumulative Calories Burnt 
+INFO : root : 2022-08-03 12:45:13,609 : Reading FitBit in Pandas
+INFO : root : 2022-08-03 12:45:13,627 : Converting all datetime To DateTime Stamp
+INFO : root : 2022-08-03 12:45:13,627 : Getting No of Unique ID's
+INFO : root : 2022-08-03 12:45:13,627 : Getting Most Active Id
+INFO : root : 2022-08-03 12:45:13,643 : No of ID's not logged
+INFO : root : 2022-08-03 12:45:13,643 : Laziest Person on Basis of Calories Burnt
+INFO : root : 2022-08-03 12:45:13,658 : No of Healthy Pesron On basis calories burnt
+INFO : root : 2022-08-03 12:45:13,658 : Irregular Persons
+INFO : root : 2022-08-03 12:45:13,658 : Third most active Person
+INFO : root : 2022-08-03 12:45:13,658 : Fifth Most Laziest Person
+INFO : root : 2022-08-03 12:45:13,674 : Total Accumulative Calories Burnt 
